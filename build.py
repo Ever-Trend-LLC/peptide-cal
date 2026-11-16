@@ -215,9 +215,25 @@ PAGES = [
     {
         "path": "/blog/", "src": "blog.html", "crumb": "Blog",
         "title": "Blog | Peptide Calculator Guides",
-        "description": "Read clear, sourced guides to BAC water, peptide calculation terms, and unit conversions alongside our free calculators.",
-        "updated": BLOG_UPDATED,
+        "description": "Read clear, sourced guides to peptides, BAC water, peptide calculation terms, and unit conversions alongside our free calculators.",
+        "updated": "2026-11-17",
         "priority": "0.6",
+    },
+    {
+        "path": "/blog/what-is-a-peptide/", "src": "blog-what-is-a-peptide.html", "crumb": "What Is a Peptide",
+        "parent_crumb": ("Blog", "/blog/"),
+        "title": "What Is a Peptide? Structure, Function & Differences from Proteins",
+        "description": "Wondering what peptides are and why they matter? Dive deep into the science of peptides, how they are formed, how they differ from proteins, and their vital roles in human biology.",
+        "article": True, "published": "2026-11-17", "updated": "2026-11-17",
+        "priority": "0.7",
+    },
+    {
+        "path": "/blog/what-are-peptides-used-for/", "src": "blog-what-are-peptides-used-for.html", "crumb": "What Are Peptides Used For",
+        "parent_crumb": ("Blog", "/blog/"),
+        "title": "What Are Peptides Used For? Skincare, Fitness, Weight Loss & Medicine",
+        "description": "Explore the science-backed uses of peptides across dermatology, sports recovery, metabolic weight management, and clinical therapeutics—plus key safety guidelines.",
+        "article": True, "published": "2026-11-17", "updated": "2026-11-17",
+        "priority": "0.7",
     },
     {
         "path": "/blog/bac-water/", "src": "blog-bac-water.html", "crumb": "BAC Water",

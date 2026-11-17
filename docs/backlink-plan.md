@@ -15,16 +15,16 @@
 
 | 站点 | 页面 | 类型 | 状态 |
 |---|---|---|---|
-| Robb Wolf | `/2024/01/13/semaglutide-psoriasis-magnesium-supplementation-thrr175/` | 博客评论 | 已提交，评论 ID `2624783`，待审核 |
-| Dr. Kara Fitzgerald | `/2019/10/07/peptide-therapy-ready-for-prime-time-fxmed/` | 博客评论 | 已提交，评论 ID `113120`，待审核 |
-| Dr. Jockers | `/episode-790-reverse-skin-aging-and-activate-longevity-genes-with-clinical-laser-therapy-at-home/` | 博客评论 | 已提交，评论 ID `2540873`，待审核 |
-| Born Fitness | `/how-to-stay-fit-while-traveling/` | 博客评论 | 已提交，评论 ID `317026`，待审核 |
+| Robb Wolf | `/2024/01/13/semaglutide-psoriasis-magnesium-supplementation-thrr175/` | 博客评论 | 已提交，评论 ID `2624783`，待审核（11-17 复核：页面仍无该评论，WP REST API 显示该文已批准评论 0 条） |
+| Dr. Kara Fitzgerald | `/2019/10/07/peptide-therapy-ready-for-prime-time-fxmed/` | 博客评论 | 已提交，评论 ID `113120`，待审核（11-17 复核：页面仍无该评论，WP REST API 显示该文已批准评论 0 条） |
+| Dr. Jockers | `/episode-790-reverse-skin-aging-and-activate-longevity-genes-with-clinical-laser-therapy-at-home/` | 博客评论 | 已提交，评论 ID `2540873`，待审核（11-17 复核：页面仍无该评论，WP REST API 显示该文已批准评论 0 条） |
+| Born Fitness | `/how-to-stay-fit-while-traveling/` | 博客评论 | 已提交，评论 ID `317026`，待审核（11-17 复核：页面仍无该评论，WP REST API 显示该文已批准评论 0 条） |
 | GLP1Chat | https://glp1chat.com/account/signature | 论坛签名 | 已保存签名，含 `https://peptidecalculatorpro.org/`；nofollow |
 | GLP1Chat | https://glp1chat.com/threads/new-guy.31122/ | 论坛回复 | 已在 Introduce Yourself 发计算类回复（纯文字、无链接、无剂量建议）。多数版块提示 `insufficient privileges`，需积累发帖数后再进技术版块 |
 | Wikipep | https://wikipep.org/wiki/Special:CreateAccount | Wiki 账号 | 暂停：Turnstile 脚本可正常加载（302→200），但 widget 不渲染、隐藏字段恒为空，站方 sitekey 配置异常；无联系邮箱、无 `Special:RequestAccount`、匿名编辑强制登录，无绕过路径。另注：其 About 页外链指向 `groupbuykits.com` 与 `pepdex.app/vialdex/`，站点由 vendor/竞品体系运营，价值本身偏低 |
-| GLP-1 Forum | https://glp1forum.com/register/ | 论坛账号 | 已提交注册，用户名 `PepCalcPro2026`（`PeptideCalculatorPro` 因含 peptide 属禁用词被拒），待 `dev@evetrend.com` 邮箱确认 |
+| GLP-1 Forum | https://glp1forum.com/register/ | 论坛账号 | 邮箱已确认，账号 `PepCalcPro2026` 可用。但 `/account/signature` 返回 Content Unavailable，账户设置页仅有用户名/邮箱/头像/横幅/生日/所在地，无签名字段也无 Website 字段，无法承载链接，仅能纯文字发言，暂停投入 |
 | MESO-Rx | https://thinksteroids.com/community/account-details | 论坛资料 | 已填 Website `https://peptidecalculatorpro.org`、Location `Hong Kong`、Occupation `Peptide research and reconstitution math`，保存后重载验证通过；资料页外链为 nofollow |
-| MESO-Rx | https://thinksteroids.com/community/threads/reconstitution-math-u-100-units-are-volume-not-mg.134451360/ | 论坛帖子 | 已在 Human Growth and Peptides 版块发帖，纯 U-100 体积换算内容，无链接、无剂量建议；账号用户名为 `vikiwu`，与品牌名不一致 |
+| MESO-Rx | https://thinksteroids.com/community/threads/reconstitution-math-u-100-units-are-volume-not-mg.134451360/ | 论坛帖子 | 已在 Human Growth and Peptides 版块发帖，纯 U-100 体积换算内容，无链接、无剂量建议；账号用户名为 `vikiwu`，与品牌名不一致。11-17 复核：帖子存活，已有 1 条回复，无删除/限流标记 |
 
 已跳过：
 

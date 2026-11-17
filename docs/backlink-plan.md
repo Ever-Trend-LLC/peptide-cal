@@ -27,7 +27,8 @@
 | `pathtopeptides.com` | 约 36%（11 月批次仅约 36%，其中大部分为自营网络） | 大量购买 `bhs-links-r283–r299.xyz` 等 13 个同构 PBN 域名，另有约 30 个被黑站注入（`TG @LINKS_DEALER`） |
 | `peptidedosingprotocols.com` | 不到 5% | 408 条中 45% 是 `pepsite.com`/`truepeptidesource.com` 自营互链，9% 锚文本直接写 `TG @BHS_LINKS` |
 | `pepuniversity.com` | 1/100 | 每域名导出的 100 个域名里 99 个为 `*.shop` + “Premium Guest Post Service” 模板；唯一真实来源是 `glp1forum.com` 帖子正文 |
-| `howmuchbacwater.com` | 1/100 | 与我们的复溶关键词正面竞争；全站仅 12 个页面（`/`、`/faq`、`/guide`、`/peptide-101`、`/glossary`、`/stacks`、`/compare`、`/tracker`、`/news`、`/advertise`、`/pricing`），说明单工具 + 少量支撑页即可支撑排名；外链同样来自同一批 PBN |
+| `howmuchbacwater.com` | 1/99 | 与我们的复溶关键词正面竞争；全站仅 12 个页面（`/`、`/faq`、`/guide`、`/peptide-101`、`/glossary`、`/stacks`、`/compare`、`/tracker`、`/news`、`/advertise`、`/pricing`），说明单工具 + 少量支撑页即可支撑排名；外链同样来自同一批 PBN |
+| `cellgenic.com` | 3/100 | 肽类供应商计算器；其余 97 个域名全是 PBN，锚文本统一为 “Proven High DA Backlinks for cellgenic.com”，与前三家同一供应商 |
 
 三条教训：
 
@@ -57,6 +58,7 @@
 | P1 | `pepuralabs.ca` | 已有 | 站内 contact | 有 retatrutide 复溶文章 |
 | P1 | `biotechresearch.co.uk` | 9 条 | 站内 contact | 文中写明 “according to PeptideDosing Protocols”，接受第三方来源 |
 | P1 | `klow-peptide.com` | — | 站内表单 | 榜单已列 9 款工具，唯独缺复溶计算 |
+| P1 | `yourhealthmagazine.net` | — | `/write-for-us/` | 区域性健康杂志（DC/MD/VA 三个版），已发过 “Peptide Reconstitution for Research: How Small Handling Errors…” 这类文章，写稿方向完全对口 |
 | P2 | `offgriddose.com` | — | `support@offgriddose.com` | GLP-1 tracker 榜单，补免费计算器 |
 | P2 | `peptifact.com` | 7 条 | 站内 contact | 引用型稿件站点 |
 | P2 | `peptideblog.net` | 7 条 | 站内 contact | 同上 |
@@ -71,6 +73,9 @@
 | P3 | `peptideadvisors.org` | 1 条 | 站内 contact | 小站，采纳率高 |
 | P3 | `doza.clinic` | 6 条 | 站内 contact | 诊所型剂量页 |
 | P3 | `thepeptidetoolkit.com` / `peptidevox.com` / `onpeps.com` | 各 1–9 条 | 站内 contact | 小内容站，模板件批量发 |
+| P3 | `alittledelightful.com` | 11 条 | `/contact/` | 个人生活博客，写过 “How to Reconstitute Peptides: A Step-By-Step Guide”，页面外链仅 11 条，编辑纯度很高 |
+| P3 | `benitonovas.com` | 33 条 | 待查（Cloudflare） | 再生医学内容站，有外泌体等科普稿 |
+| P3 | `certifiedpeptidereviews.com` | 4 条 | 待查 | 肽类证据库，需确认是否接受外部工具/数据提交 |
 
 已写好未发送：Mantelligence、Yanre Fitness、Fresh Greens（见附录 B）。
 

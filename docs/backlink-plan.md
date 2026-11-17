@@ -27,6 +27,7 @@
 | `pathtopeptides.com` | 约 36%（11 月批次仅约 36%，其中大部分为自营网络） | 大量购买 `bhs-links-r283–r299.xyz` 等 13 个同构 PBN 域名，另有约 30 个被黑站注入（`TG @LINKS_DEALER`） |
 | `peptidedosingprotocols.com` | 不到 5% | 408 条中 45% 是 `pepsite.com`/`truepeptidesource.com` 自营互链，9% 锚文本直接写 `TG @BHS_LINKS` |
 | `pepuniversity.com` | 1/100 | 每域名导出的 100 个域名里 99 个为 `*.shop` + “Premium Guest Post Service” 模板；唯一真实来源是 `glp1forum.com` 帖子正文 |
+| `howmuchbacwater.com` | 1/100 | 与我们的复溶关键词正面竞争；全站仅 12 个页面（`/`、`/faq`、`/guide`、`/peptide-101`、`/glossary`、`/stacks`、`/compare`、`/tracker`、`/news`、`/advertise`、`/pricing`），说明单工具 + 少量支撑页即可支撑排名；外链同样来自同一批 PBN |
 
 三条教训：
 
@@ -124,6 +125,7 @@ Qwoted（每月 2 次免费额度）、Featured（每月 3 次）、SourceBottle
 | P2 | `southernlabs.co.nz` | 站内表单 | 需询价 | NZ 供应商博客，有第三方检测资源页 |
 | P2 | `biogenixpeptides.com` / `blackicepeptides.com` / `livewellpeptides.com` / `celonyxlabs.com` | 站内表单 | 需询价 | 供应商博客，只接受合作或付费 |
 | P2 | `righteoussportsnutrition.com` | 站内表单 | 需询价 | 补剂零售，受众相关 |
+| P2 | `howmuchbacwater.com` | `/advertise`、`/pricing` | 需询价 | 与我们的复溶关键词正面竞争，但公开售卖广告/付费位；单工具站，可谈赞助位或伙伴位，需评估给对方导流的得失 |
 
 策略：先用免费 pitch 试探，被拒再问价格。这些站的边际成本远低于平台，相关性也更高。
 

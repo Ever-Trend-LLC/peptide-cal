@@ -155,3 +155,111 @@
 | Reddit | r/PeptideForum — Question about GLP1 peptide amounts/dosage | `/blog/how-many-doses-per-vial/` | 先纯文字 |
 
 Reddit 账号需先有 karma 才不易被删；建议先把前两个 Quora 回答写完，Reddit 用纯文字建立历史后再放链接。
+
+## 12. 资源页 pitch 邮件草稿
+
+发件人：`Peptide Calculator Pro <dev@evetrend.com>`。三条都按“免费工具、无商业诉求、可拒绝”的调性写，回复率高于一上来谈互链。
+
+**A. Peptide Authority — contact@peptideauthority.co.uk**
+
+Subject: Free peptide reconstitution calculator for your dosage tool page
+
+Hi,
+
+I run Peptide Calculator Pro (https://peptidecalculatorpro.org), a free browser-based calculator for peptide reconstitution and dose math.
+
+I found your dosage calculator page at https://peptideauthority.co.uk/tools/dosage-calculator and noticed you reference ClinicalTrials.gov, PubMed and NHS guidance alongside the math. That is the same approach we take.
+
+If it is useful for your readers, our reconstitution calculator (https://peptidecalculatorpro.org/peptide-reconstitution-calculator/) works backwards from a target syringe mark to the water volume, which is the step people most often get wrong. Happy to be listed as one alternative next to your own tool, not instead of it.
+
+No obligation either way — thanks for publishing clear math in this space.
+
+Peptide Calculator Pro
+https://peptidecalculatorpro.org
+
+**B. PepFlow — hi@pepflow.app**
+
+Subject: Suggestion for your "best peptide calculator apps" roundup
+
+Hi,
+
+Came across your roundup at https://pepflow.app/blog/best-peptide-calculator-apps/ — the comparison by use case is more useful than most lists out there.
+
+One candidate you may not have reviewed: https://peptidecalculatorpro.org. It is free, runs entirely in the browser, and focuses on three things your list calls out as deciding factors: reverse solving for water volume, multi-peptide blend vials, and doses-per-vial plus days of supply. No account, no paywall.
+
+If it fits your criteria, I would appreciate a look. If it does not meet the bar, an honest reason would be genuinely helpful — we would rather fix the gaps than pitch again.
+
+Peptide Calculator Pro
+https://peptidecalculatorpro.org
+
+**C. PeptideJournal — 站内表单**
+
+Subject: Addition to your peptide databases & research resources page
+
+Hi,
+
+Your reference page (https://www.peptidejournal.org/reference/peptide-databases-research-resources) is one of the few that keeps the database list current. Thank you for maintaining it.
+
+If you keep a tools section alongside the databases, we built a free sequence and vial calculator that may fit: https://peptidecalculatorpro.org/peptide-molecular-weight-calculator/ returns average and monoisotopic mass from a pasted sequence, and the reconstitution calculator handles mg/mL and U-100 unit conversions.
+
+Entirely your call — I know the page is curated rather than a link list.
+
+Peptide Calculator Pro
+https://peptidecalculatorpro.org
+
+## 13. Quora 回答草稿
+
+规则：先给出完整可用的答案，链接放在最后一段并说明是自建工具；不要给剂量建议。
+
+**Q1 — https://www.quora.com/What-is-a-peptide**
+
+A peptide is a short chain of amino acids joined by peptide bonds. In regulatory and biochemical usage, anything up to roughly 40–50 amino acids counts as a peptide; beyond that the same chain is usually called a protein.
+
+The practical difference is not just length. Proteins fold into complex three-dimensional shapes, which makes them fragile and too large to cross the skin or gut barrier intact. Peptides are short enough to stay stable and to bind receptors directly, which is why most of them work as signals rather than structure: insulin, GLP-1, oxytocin and glutathione are all peptides your body makes and uses every day.
+
+A useful way to picture it: amino acids are letters, peptides are words, proteins are whole books. Same alphabet, different job.
+
+I wrote a longer explainer with the bond chemistry and the peptide-vs-protein comparison table here if you want the details: https://peptidecalculatorpro.org/blog/what-is-a-peptide/ (full disclosure: that is my site).
+
+**Q2 — https://www.quora.com/What-do-peptides-do**
+
+Most peptides act as messengers, not building material. They bind a specific receptor on a target cell and tell that cell to do something — release a hormone, start collagen synthesis, open a glucose channel.
+
+The categories people usually mean when they ask this:
+
+- **Cosmetic peptides** mimic collagen fragments (signal peptides), carry copper into skin (GHK-Cu), or soften expression lines (argireline).
+- **Metabolic peptides** are the GLP-1 class — semaglutide and tirzepatide are engineered versions of a gut hormone that slows gastric emptying and signals satiety.
+- **Recovery peptides** like BPC-157 and TB-500 have animal data but limited human trials and are banned by WADA.
+- **Collagen peptides** in supplements are simply hydrolysed protein — food, not signalling.
+
+One honest caveat: "peptide" is a chemical class, not a safety category. A moisturiser peptide and an injectable hormone analogue sit under the same word and carry completely different risk.
+
+I put the evidence and the approved-drug table together here: https://peptidecalculatorpro.org/blog/what-are-peptides-used-for/ (my site).
+
+**Q3 — 20 mg tirzepatide, 100-unit syringe, how much water**
+
+The water volume is your choice — it does not change how much peptide is in the vial, it only changes how concentrated each mL is. So the answer depends on the dose your prescriber gave you.
+
+The math:
+
+- concentration = mg in vial ÷ mL of water
+- volume per dose (mL) = dose in mg ÷ concentration
+- units on a U-100 syringe = mL × 100
+
+With a 20 mg vial:
+
+| Water added | Concentration | 2.5 mg dose | 5 mg dose | 10 mg dose |
+|---|---|---|---|---|
+| 2 mL | 10 mg/mL | 0.25 mL = 25 units | 0.5 mL = 50 units | 1.0 mL = 100 units |
+| 4 mL | 5 mg/mL | 0.5 mL = 50 units | 1.0 mL = 100 units | 2.0 mL = 200 units |
+| 8 mL | 2.5 mg/mL | 1.0 mL = 100 units | 2.0 mL (exceeds syringe) | — |
+
+Two things worth flagging: pick a volume that keeps your actual dose comfortably inside the syringe barrel (a 100-unit syringe holds 1 mL, so the 4 mL option pushes larger doses past the limit), and use the volume you actually measured, not the one you planned.
+
+Also, U-100 "units" are volume marks — 100 units = 1 mL — not international units of drug.
+
+I built a free calculator that does this both ways, including solving for the water volume from a target syringe mark: https://peptidecalculatorpro.org/bac-water-calculator/ (my site, no account needed). But please confirm the dose itself with whoever prescribed it — that part is not a math question.
+
+## 14. WikiPep 现状
+
+`https://wikipep.org/api.php?action=query&list=users&ususers=PeptideCalculatorPro` 返回 `"missing"`，账号仍未创建。Cloudflare Turnstile 在自动化浏览器里不渲染，只能人工在浏览器完成一次注册；建好后可补条目并回填本节。

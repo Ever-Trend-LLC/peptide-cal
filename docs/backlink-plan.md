@@ -21,8 +21,10 @@
 | Born Fitness | `/how-to-stay-fit-while-traveling/` | 博客评论 | 已提交，评论 ID `317026`，待审核 |
 | GLP1Chat | https://glp1chat.com/account/signature | 论坛签名 | 已保存签名，含 `https://peptidecalculatorpro.org/`；nofollow |
 | GLP1Chat | https://glp1chat.com/threads/new-guy.31122/ | 论坛回复 | 已在 Introduce Yourself 发计算类回复（纯文字、无链接、无剂量建议）。多数版块提示 `insufficient privileges`，需积累发帖数后再进技术版块 |
-| Wikipep | https://wikipep.org/wiki/Special:CreateAccount | Wiki 账号 | 被 Cloudflare Turnstile 阻塞，待人工完成验证 |
+| Wikipep | https://wikipep.org/wiki/Special:CreateAccount | Wiki 账号 | 暂停：Turnstile 脚本可正常加载（302→200），但 widget 不渲染、隐藏字段恒为空，站方 sitekey 配置异常；无联系邮箱、无 `Special:RequestAccount`、匿名编辑强制登录，无绕过路径。另注：其 About 页外链指向 `groupbuykits.com` 与 `pepdex.app/vialdex/`，站点由 vendor/竞品体系运营，价值本身偏低 |
 | GLP-1 Forum | https://glp1forum.com/register/ | 论坛账号 | 已提交注册，用户名 `PepCalcPro2026`（`PeptideCalculatorPro` 因含 peptide 属禁用词被拒），待 `dev@evetrend.com` 邮箱确认 |
+| MESO-Rx | https://thinksteroids.com/community/account-details | 论坛资料 | 已填 Website `https://peptidecalculatorpro.org`、Location `Hong Kong`、Occupation `Peptide research and reconstitution math`，保存后重载验证通过；资料页外链为 nofollow |
+| MESO-Rx | https://thinksteroids.com/community/threads/reconstitution-math-u-100-units-are-volume-not-mg.134451360/ | 论坛帖子 | 已在 Human Growth and Peptides 版块发帖，纯 U-100 体积换算内容，无链接、无剂量建议；账号用户名为 `vikiwu`，与品牌名不一致 |
 
 已跳过：
 
@@ -33,11 +35,23 @@
 
 | 站点 | 入口 | 适用性 | 动作 |
 |---|---|---|---|
-| **Wikipep** | https://wikipep.org/wiki/Special:CreateAccount | 肽百科 MediaWiki，可编辑/新增条目 | 注册后补一个中立的 “Peptide Calculator” 工具条目，或在剂量/复溶页面的 External links 区补充。MediaWiki 外链默认 nofollow |
+| **Wikipep** | https://wikipep.org/wiki/Special:CreateAccount | 肽百科 MediaWiki，可编辑/新增条目 | 暂停：站方 Turnstile 配置异常，注册无法完成，详见 §2 |
 | **GLP1Chat** | https://glp1chat.com/register/ | GLP-1 论坛，受众精准 | 完成邮箱确认后，先参与 2–3 个剂量/复溶/平台期讨论，再在资料或签名放链接；nofollow |
 | **The Hive Index** | https://thehiveindex.com/submit/ | 只收社区/论坛 | 暂不适用；若未来上线社区/论坛再提交 |
 | **HiveFindr** | https://hivefindr.com/sign-up | 只收 community listing | 同上 |
 | **Machine Relations Index** | https://machinerelations.ai/index/domains/pathtopeptides.com | 人工索引，无公开提交入口 | 只能尝试联系，优先级低 |
+| **ThePeptidesForum** | https://thepeptidesforum.org/register | 肽类论坛，XenForo 资料页含 Website 字段 | 注册后填资料；需人工审核，nofollow |
+| **LongeCity** | https://www.longecity.org/forum/ucp.php?mode=register | 长寿/抗衰论坛，phpBB 资料页含 Website | 注册后填资料，nofollow |
+| **SaaSHub** | https://www.saashub.com/submit | 通用软件目录 | 提交即可，多半 nofollow |
+| **Show HN** | https://news.ycombinator.com/submit | Hacker News 展示 | 免费即发，账号需有一定活跃度 |
+
+已关闭：
+
+- **AlternativeTo**：提交需付费，放弃。
+- **SciCrunch / RRID**：此前已提交过。
+- **bio.tools**：条目 `peptide_calculator_pro` 已存在且字段完整（topics 为 Protein properties / Biochemistry / Chemistry，3 个 EDAM operation，3 条子页面链接），仅 `credit`、`publication` 空缺，`editPermission` 为 private，无需重复提交。
+- **OMICtools**：域名已停用并转为垃圾页。
+- **bioinformatics.ca** 链接目录：已 404 下线。
 
 ## 4. 外联目标
 

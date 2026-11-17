@@ -19,7 +19,8 @@
 | Dr. Kara Fitzgerald | `/2019/10/07/peptide-therapy-ready-for-prime-time-fxmed/` | 博客评论 | 已提交，评论 ID `113120`，待审核 |
 | Dr. Jockers | `/episode-790-reverse-skin-aging-and-activate-longevity-genes-with-clinical-laser-therapy-at-home/` | 博客评论 | 已提交，评论 ID `2540873`，待审核 |
 | Born Fitness | `/how-to-stay-fit-while-traveling/` | 博客评论 | 已提交，评论 ID `317026`，待审核 |
-| GLP1Chat | https://glp1chat.com/register/ | 论坛账号 | 账号 `PeptideCalculatorPro` 已创建，等待 `dev@evetrend.com` 邮箱确认 |
+| GLP1Chat | https://glp1chat.com/account/signature | 论坛签名 | 已保存签名，含 `https://peptidecalculatorpro.org/`；nofollow |
+| GLP1Chat | https://glp1chat.com/threads/new-guy.31122/ | 论坛回复 | 已在 Introduce Yourself 发计算类回复（纯文字、无链接、无剂量建议）。多数版块提示 `insufficient privileges`，需积累发帖数后再进技术版块 |
 | Wikipep | https://wikipep.org/wiki/Special:CreateAccount | Wiki 账号 | 被 Cloudflare Turnstile 阻塞，待人工完成验证 |
 
 已跳过：
@@ -102,3 +103,55 @@
 - 评论和论坛链接多为 `nofollow`，不要把排名目标押在评论上。
 - 付费链接需遵守对方站点的 disclosure 要求；不确定是否 dofollow 的，上线后用浏览器或 Ahrefs 复核。
 - 外链能否上线取决于编辑审核，本方案不保证每条都通过。
+
+## 9. 专家引用平台（Qwoted / Featured / SourceBottle）
+
+记者征集专家观点，被采用后通常能拿到正文里的编辑链接，单条价值高于评论。
+
+| 平台 | 注册入口 | 提问可见性 | 费用 | 门槛 |
+|---|---|---|---|---|
+| Qwoted | https://app.qwoted.com/users/sign_up | 需登录（`/source_requests` 会跳登录） | 免费 Basic，2 次投稿/月 | 无持证要求；资料须用真实姓名 |
+| Featured | https://featured.com/signup | 需登录（首页写明 “Log in to search, save, and respond to journalist requests”） | 免费版 3 次回答/月 | 无持证要求 |
+| SourceBottle | https://www.sourcebottle.com/subscribe.asp | 公开可见：https://www.sourcebottle.com/industry-list.asp | 免费账户 | 要求“确有相关专业经验” |
+
+执行建议：
+
+- 身份用品牌名 + `dev@evetrend.com`，简介写 “free peptide reconstitution & dosage math tools”，避免写成医疗专家。
+- 回答角度限定在换算与计算（mg/mL、U-100 units、doses per vial），不要给用药建议，符合 YMYL 安全边界。
+- SourceBottle 以澳洲媒体为主，GLP-1 选题频率低；Qwoted 免费额度只有 2 次/月，只投最相关的题。
+
+## 10. 资源页/工具页外链
+
+已核实页面真实存在且确实列有外部站点，适合以“免费计算器工具”为由联系加挂。
+
+| 优先级 | 站点 | 页面 | 页面现状 | 联系方式 |
+|---|---|---|---|---|
+| P0 | PeptideJournal | https://www.peptidejournal.org/reference/peptide-databases-research-resources | 已列 UniProt、PMC、ClinicalTrials.gov | 无公开邮箱，走站内表单 |
+| P0 | Peptide Authority | https://peptideauthority.co.uk/tools/dosage-calculator | 已有 dosage calculator，正文引 PubMed/NHS | contact@peptideauthority.co.uk |
+| P0 | PepFlow | https://pepflow.app/blog/best-peptide-calculator-apps/ | 榜单页，已列 pepcalc.app、dosii.app 等 | hi@pepflow.app |
+| P1 | GLP-1 Collective | https://glp1collective.org/resources/ | 工具目录，列 glp1coach.app 等 | contact@glp1collective.org |
+| P1 | BodyHackGuide | https://www.bodyhackguide.co/resources/ | 资源中心，列多个 subreddit | support@bodyhackguide.co |
+| P1 | HighPeptides | https://highpeptides.com/compare/thepeptidelist-alternatives/ | 榜单页，列 PubMed、Examine 等 | contact@highpeptides.com |
+| P2 | PepStack | https://www.pepstack.net/en | 免费工具区 | support@pepstack.net |
+| P2 | Reta Support | https://retasupport.com/glp-1-protein-guide/ | 页末列 MedlinePlus、NIDDK、FDA | support@abxapps.com |
+
+注意：Peptide Authority 和 PepFlow 本身也做剂量计算器，是竞品，谈互链要接受“工具对比/并列推荐”而不是唯一推荐。
+
+## 11. Quora / Reddit 回答选题
+
+先答后链，链接优先落到博客文章而不是首页，降低被判定为推广的概率。
+
+| 平台 | 问题 | 落地页 | 备注 |
+|---|---|---|---|
+| Quora | https://www.quora.com/What-is-a-peptide | `/blog/what-is-a-peptide/` | 可先答后链，需披露关联 |
+| Quora | https://www.quora.com/What-do-peptides-do | `/blog/what-are-peptides-used-for/` | 同上 |
+| Quora | https://www.quora.com/How-much-peptide-sterile-water-do-you-add-using-a-100-unit-insulin-syringe-to-reconstitute-20mg-of-TIRZEPATIDE | `/blog/how-much-bac-water-to-add/`、`/bac-water-calculator/` | 只给计算示例，不回答“该打多少” |
+| Reddit | r/Biohackers — What exactly are peptides and why do people use them | `/blog/what-is-a-peptide/` | 版规未核实，先纯文字 |
+| Reddit | r/PeptideGuide — Bacteriostatic water question | `/blog/how-much-bac-water-to-add/` | 先纯文字 |
+| Reddit | r/GLP1ResearchTalk — Reconstitution, how much BAC water? | `/blog/how-much-bac-water-to-add/` | 先纯文字 |
+| Reddit | r/Peptides_for_Women — BAC water + dosage | `/blog/how-much-bac-water-to-add/` | 先纯文字 |
+| Reddit | r/PeptideGuide — Is there no difference between BAC water and sterile water? | `/blog/bac-water/` | 先纯文字 |
+| Reddit | r/Peptidesource — How many doses are in the vial? | `/blog/how-many-doses-per-vial/` | 先纯文字 |
+| Reddit | r/PeptideForum — Question about GLP1 peptide amounts/dosage | `/blog/how-many-doses-per-vial/` | 先纯文字 |
+
+Reddit 账号需先有 karma 才不易被删；建议先把前两个 Quora 回答写完，Reddit 用纯文字建立历史后再放链接。

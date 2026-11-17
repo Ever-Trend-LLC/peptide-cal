@@ -25,11 +25,17 @@
 | GLP-1 Forum | https://glp1forum.com/register/ | 论坛账号 | 邮箱已确认，账号 `PepCalcPro2026` 可用。但 `/account/signature` 返回 Content Unavailable，账户设置页仅有用户名/邮箱/头像/横幅/生日/所在地，无签名字段也无 Website 字段，无法承载链接，仅能纯文字发言，暂停投入 |
 | MESO-Rx | https://thinksteroids.com/community/account-details | 论坛资料 | 已填 Website `https://peptidecalculatorpro.org`、Location `Hong Kong`、Occupation `Peptide research and reconstitution math`，保存后重载验证通过；资料页外链为 nofollow |
 | MESO-Rx | https://thinksteroids.com/community/threads/reconstitution-math-u-100-units-are-volume-not-mg.134451360/ | 论坛帖子 | 已在 Human Growth and Peptides 版块发帖，纯 U-100 体积换算内容，无链接、无剂量建议；账号用户名为 `vikiwu`，与品牌名不一致。11-17 复核：帖子存活，已有 1 条回复，无删除/限流标记 |
+| Peptide Library | support@peptidelibrary.app | 资源页 pitch | 11-17 已发送。请求列入 `/compare/best-peptide-calculators`（该页已列 5 款竞品且无联盟披露），主打反向算兑水量、多肽混合瓶、每瓶剂数三项差异；待回复 |
+| ADW Diabetes | writeforus@adwdiabetes.com | 客座投稿 pitch | 11-17 已发送。提三个换算类选题（mg/units 与 U-100、瓶内实际含量、换算自查清单），未承诺字数，待编辑回复 |
+| Telehealth Ally | https://telehealthally.com/contact | 站内表单 | 11-17 已提交，页面回显 “Message Sent”。请求在其 BPC-157 / TB-500 耐力指南中补计算器资源或编号引用 |
 
 已跳过：
 
 - **Ruled.me**：评论表单没有 Website 字段，无法放链接，只发纯评论没有外链价值。
 - **Mark's Daily Apple**：已迁移到 Substack，评论必须登录 Substack 账号。
+- **InCareNow**（11-17）：`/contact/` 是患者联系表单（字段为 `form_name/company/first-name/last-name/email/phone/message`，提交到 `/api/contact`），文章无作者署名、无编辑邮箱，页脚显示站点由 Brain Buzz Marketing 代运营。向诊所前台投 SEO 请求不会到达内容方，判定不适合，未提交。
+
+**评论区渠道结论（11-17）**：4 条评论提交 9 天后仍未审核通过，且对应文章本身近期已批准评论数为 0，说明这些站的评论区无人运营。该渠道关闭，后续不再批量投放评论。
 
 ## 3. 可直接提交/注册
 
@@ -57,20 +63,23 @@
 
 这些站点在竞品外链里出现，但链接大概率是编辑引用或付费合作，不能直接表单提交。按相关性和可执行性排序：
 
-| 优先级 | 站点 | 联系方式 | 建议角度 | 目标落地页 |
-|---|---|---|---|---|
-| P0 | **ADW Diabetes** | writeforus@adwdiabetes.com / https://www.adwdiabetes.com/articles/write-for-us | GLP-1 用药者的剂量、复溶、units 换算 | 剂量页 / 复溶页 |
-| P0 | **Yanre Fitness** | submit@yanrefitness.com / https://www.yanrefitness.com/write-for-us/ | 健身圈肽类使用趋势 + 复溶/剂量计算 | 首页 / 复溶页 |
-| P0 | **Telehealth Ally** | https://telehealthally.com/contact | BPC-157/TB-500 指南补“剂量换算工具” | 剂量页 |
-| P1 | **InCareNow** | https://www.incarenow.com/contact/ | CJC-1295 方案文章补 calculator 资源 | 剂量页 / 首页 |
-| P1 | **Mantelligence** | editorial@mantelligence.com / https://mantelligence.com/write-for-us/ | 男性健康、健身恢复、循证肽类科普 | 首页 / 剂量页 |
-| P1 | **Peptides Today** | https://peptidestoday.ca/contact/ | COA/剂量科普，偏编辑投稿 | 剂量页 |
-| P1 | **Herbila** | https://herbilabs.co.uk/contact/ | 葡语复溶指南，可谈互链/客座 | 复溶页 |
-| P1 | **PepFlow** | hi@pepflow.app | 肽类工具站，可谈工具互推 | 首页 |
-| P2 | **Peptide Atlas** | https://peptideatlas.health/contact | 肽类科普库，可投稿 | 复溶页 / 剂量页 |
-| P2 | **Peptides Made Clear** | https://peptidesmadeclear.com/about | 有编辑政策，走 guest/editorial pitch | 剂量页 |
-| P2 | **Peptide News Digest** | https://peptidenewsdigest.org/about/ | 行业媒体，适合投稿而非外链 | 首页 |
-| P2 | **Doserly / Peptidelit / Peptide Cortex** | 站内联系 | 剂量/计算器类站点，可谈合作 | 对应工具页 |
+| 优先级 | 站点 | 联系方式 | 建议角度 | 目标落地页 | 状态 |
+|---|---|---|---|---|---|
+| P0 | **ADW Diabetes** | writeforus@adwdiabetes.com / https://www.adwdiabetes.com/articles/write-for-us | GLP-1 用药者的剂量、复溶、units 换算 | 剂量页 / 复溶页 | 11-17 已发 |
+| P0 | **Yanre Fitness** | submit@yanrefitness.com / https://www.yanrefitness.com/write-for-us/ | 健身圈肽类使用趋势 + 复溶/剂量计算 | 首页 / 复溶页 | 草稿已备，未发 |
+| P0 | **Telehealth Ally** | https://telehealthally.com/contact | BPC-157/TB-500 指南补“剂量换算工具” | 剂量页 | 11-17 已提交表单 |
+| P0 | **Peptide Library** | support@peptidelibrary.app | 榜单补“反向算兑水量 / 混合瓶 / 每瓶剂数” | 复溶页 / 首页 | 11-17 已发 |
+| P1 | ~~InCareNow~~ | — | CJC-1295 文章补 calculator 资源 | — | 关闭：患者联系表单，无内容方入口 |
+| P1 | **Mantelligence** | editorial@mantelligence.com / https://mantelligence.com/write-for-us/ | 男性健康、健身恢复、循证肽类科普 | 首页 / 剂量页 | 草稿已备，未发 |
+| P1 | **Peptides Today** | https://peptidestoday.ca/contact/ | COA/剂量科普，偏编辑投稿 | 剂量页 | 未发 |
+| P1 | **Herbila** | https://herbilabs.co.uk/contact/ | 葡语复溶指南，可谈互链/客座 | 复溶页 | 未发 |
+| P1 | **PepFlow** | hi@pepflow.app | 肽类工具站，可谈工具互推 | 首页 | 草稿已备，未发 |
+| P2 | **Peptide Atlas** | https://peptideatlas.health/contact | 肽类科普库，可投稿 | 复溶页 / 剂量页 | 未发 |
+| P2 | **Peptides Made Clear** | https://peptidesmadeclear.com/about | 有编辑政策，走 guest/editorial pitch | 剂量页 | 未发 |
+| P2 | **Peptide News Digest** | https://peptidenewsdigest.org/about/ | 行业媒体，适合投稿而非外链 | 首页 | 未发 |
+| P2 | **Doserly / Peptidelit / Peptide Cortex** | 站内联系 | 剂量/计算器类站点，可谈合作 | 对应工具页 | 未发 |
+| P2 | **OffGrid Dose** | support@offgriddose.com | GLP-1 tracker 榜单补免费计算器 | 首页 / 剂量页 | 未发 |
+| P2 | **Klow Peptide** | https://klow-peptide.com/en/pages/best-peptide-calculators/ | 榜单已列 9 款，缺复溶计算 | 复溶页 | 未发 |
 
 ## 5. 明确不投
 
@@ -141,6 +150,7 @@
 
 | 优先级 | 站点 | 页面 | 页面现状 | 联系方式 |
 |---|---|---|---|---|
+| P0 | Peptide Library | https://peptidelibrary.app/compare/best-peptide-calculators | 榜单已列 PeptIQ、PepCalc、PeptidePal 等 5 款，无联盟披露 | support@peptidelibrary.app（11-17 已发） |
 | P0 | PeptideJournal | https://www.peptidejournal.org/reference/peptide-databases-research-resources | 已列 UniProt、PMC、ClinicalTrials.gov | 无公开邮箱，走站内表单 |
 | P0 | Peptide Authority | https://peptideauthority.co.uk/tools/dosage-calculator | 已有 dosage calculator，正文引 PubMed/NHS | contact@peptideauthority.co.uk |
 | P0 | PepFlow | https://pepflow.app/blog/best-peptide-calculator-apps/ | 榜单页，已列 pepcalc.app、dosii.app 等 | hi@pepflow.app |
@@ -222,6 +232,50 @@ Entirely your call — I know the page is curated rather than a link list.
 Peptide Calculator Pro
 https://peptidecalculatorpro.org
 
+**D. Peptide Library — support@peptidelibrary.app（11-17 已发送）**
+
+Subject: One more candidate for your best peptide calculators comparison
+
+Hi,
+
+I read your comparison at https://peptidelibrary.app/compare/best-peptide-calculators and appreciated that it actually explains what each tool does instead of just listing them.
+
+One candidate that may be worth a look: https://peptidecalculatorpro.org
+
+It is free, runs entirely in the browser with no account, and covers a few things I did not see in the current five:
+
+- reverse solving: enter the target syringe mark, get the water volume needed
+- blend vials with more than one peptide and different ratios
+- doses per vial and days of supply from a given dose
+
+No affiliate links and nothing to pay for. If it does not meet your bar, an honest one-line reason would be genuinely useful, because I would rather fix the gaps than pitch again.
+
+Either way, thanks for keeping the page current.
+
+Peptide Calculator Pro
+https://peptidecalculatorpro.org
+
+**E. ADW Diabetes — writeforus@adwdiabetes.com（11-17 已发送）**
+
+Subject: Guest post pitch: mg-to-units math for GLP-1 readers
+
+Hi,
+
+I would like to pitch a guest article for ADW Diabetes.
+
+I run Peptide Calculator Pro, a free browser-based calculator for peptide reconstitution and dose math, so most of what I write is arithmetic rather than advice. Three angles that fit your audience:
+
+1. "mg, units and U-100: why the same dose reads differently on two syringes" — the concentration step people skip, with worked examples.
+2. "What a vial actually contains" — label weight versus measured volume, overfill, and why purity percentages are not mg.
+3. "Checking your math before you draw" — a short checklist patients can use with whatever dosing plan their clinician gave them.
+
+All three stay on conversion and measurement. I do not give dosing recommendations, I cite FDA labeling and standard pharmacy references, and every piece carries a medical disclaimer pointing readers back to their own clinician.
+
+Happy to follow your editorial guidelines on length, tone and disclosures. Would any of these work? I can send a full draft before you commit to anything.
+
+Peptide Calculator Pro
+https://peptidecalculatorpro.org
+
 ## 13. Quora 回答草稿
 
 规则：先给出完整可用的答案，链接放在最后一段并说明是自建工具；不要给剂量建议。
@@ -279,6 +333,8 @@ I built a free calculator that does this both ways, including solving for the wa
 
 `https://wikipep.org/api.php?action=query&list=users&ususers=PeptideCalculatorPro` 返回 `"missing"`，账号仍未创建。Cloudflare Turnstile 在自动化浏览器里不渲染，只能人工在浏览器完成一次注册；建好后可补条目并回填本节。
 
+11-17 更新：Turnstile 脚本本身可加载，但 widget 始终不渲染，判断为站方 sitekey 配置异常而非本地网络问题；同时其 About 页外链指向 `groupbuykits.com` 与 `pepdex.app/vialdex/`，站点由 vendor/竞品体系运营，且 MediaWiki 外链默认 nofollow。**结论：暂停，不再投入。**
+
 ## 15. 竞品 pepuniversity.com 数据与 disavow 清单
 
 来源：`current-page-20261116-225840.csv`（100 行）、`current-page-20261116-230115.csv`（31 行）、`disavow_20261116*.txt`（100 / 200 / 261 条递进版本）。
@@ -305,3 +361,39 @@ I built a free calculator that does this both ways, including solving for the wa
 
 - `342e2c4cd7fc435da2e1681771645397.xlsx`：评论/个人资料页外链机会表，目标站为 `sprunki-game.io`、`basketballrandom.com`、`leveldevilgame.com` 等游戏站，与肽站无关。可借鉴的只有字段模板（Type / URL / Discovered From / Has Captcha / Link Strategy / Link Format / Has URL Field）。
 - `StyleMirror_AI_HK300_Pitch_final.pptx`：服装 AI 试穿产品路演（stylemirrorai.com，HK$100k 预算），与本站无关。
+
+## 17. 当前状态（2026-11-17）
+
+**已落地且可验证**
+
+| 渠道 | 结果 | 属性 |
+|---|---|---|
+| GLP1Chat | 账号 `PeptideCalculatorPro`，签名含 `https://peptidecalculatorpro.org/` | nofollow，受众精准 |
+| MESO-Rx | 资料页 Website 已保存；`/threads/reconstitution-math-u-100-units-are-volume-not-mg.134451360/` 帖子存活并有 1 条回复 | nofollow，内容有效 |
+| Telehealth Ally | 联系表单已提交，回显 “Message Sent” | 待对方决定是否加挂 |
+
+**已发出、等待回复**
+
+- Peptide Library（support@peptidelibrary.app）—— 榜单并列收录请求
+- ADW Diabetes（writeforus@adwdiabetes.com）—— 客座投稿提案，三个选题待编辑选择
+- Telehealth Ally —— 表单回复
+
+**已判定不可行**
+
+| 渠道 | 原因 |
+|---|---|
+| 4 条博客评论 | 9 天未过审，文章本身近期零评论，评论渠道关闭 |
+| GLP-1 Forum | 无签名栏、无 Website 字段，只能纯文字发言 |
+| Wikipep | 站方 Turnstile 配置异常，注册无法完成；且站点由 vendor/竞品体系运营，价值本身偏低 |
+| InCareNow | 患者联系表单，无内容方入口，未提交 |
+| AlternativeTo | 提交需付费 |
+| SciCrunch / RRID、bio.tools | 已提交过，bio.tools 条目字段完整 |
+
+**下一步（按优先级）**
+
+1. 跟进两封已发 pitch：7–10 天无回复则发一次简短 follow-up，不重复原邮件。
+2. 若 ADW 回信约稿，优先写 “mg, units and U-100” 那篇，控制在 800–1200 词，换算为主、不给剂量建议。
+3. 剩余可发目标：Yanre Fitness、Mantelligence（草稿已备）、Peptides Today、Herbila、Peptide Authority、PepFlow、OffGrid Dose、Klow。
+4. Quora 三篇草稿见 §13，需登录后发布，链接为 nofollow，价值在长期曝光。
+5. 4 周后复盘 §7 的验收指标：剂量页排名、GSC 曝光、真实编辑外链数量。
+

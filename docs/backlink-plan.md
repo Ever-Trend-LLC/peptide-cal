@@ -22,6 +22,7 @@
 | GLP1Chat | https://glp1chat.com/account/signature | 论坛签名 | 已保存签名，含 `https://peptidecalculatorpro.org/`；nofollow |
 | GLP1Chat | https://glp1chat.com/threads/new-guy.31122/ | 论坛回复 | 已在 Introduce Yourself 发计算类回复（纯文字、无链接、无剂量建议）。多数版块提示 `insufficient privileges`，需积累发帖数后再进技术版块 |
 | Wikipep | https://wikipep.org/wiki/Special:CreateAccount | Wiki 账号 | 被 Cloudflare Turnstile 阻塞，待人工完成验证 |
+| GLP-1 Forum | https://glp1forum.com/register/ | 论坛账号 | 已提交注册，用户名 `PepCalcPro2026`（`PeptideCalculatorPro` 因含 peptide 属禁用词被拒），待 `dev@evetrend.com` 邮箱确认 |
 
 已跳过：
 

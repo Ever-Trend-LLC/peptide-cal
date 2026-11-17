@@ -263,3 +263,30 @@ I built a free calculator that does this both ways, including solving for the wa
 ## 14. WikiPep 现状
 
 `https://wikipep.org/api.php?action=query&list=users&ususers=PeptideCalculatorPro` 返回 `"missing"`，账号仍未创建。Cloudflare Turnstile 在自动化浏览器里不渲染，只能人工在浏览器完成一次注册；建好后可补条目并回填本节。
+
+## 15. 竞品 pepuniversity.com 数据与 disavow 清单
+
+来源：`current-page-20261116-225840.csv`（100 行）、`current-page-20261116-230115.csv`（31 行）、`disavow_20261116*.txt`（100 / 200 / 261 条递进版本）。
+
+**CSV 结论**：131 条里 130 条是外链数 3,000–5,000 的 PBN（`*.shop`、`*.site`、`*.online`、`bloggazza/onesmablog/ampblogs` 一类日志农场）。唯一真实渠道是：
+
+- **glp1forum.com** — `https://glp1forum.com/threads/cerebrolysin-first-cycle.8620/page-9`（快照外链数 13，真实论坛讨论帖）。性质与 GLP1Chat 类似，可注册后参与剂量/复溶讨论，属于新增社区渠道。
+
+**disavow 结论**：这份清单是 semrush 导出，261 条里混合了两类，**不能整份照抄**：
+
+- PBN 部分（`theforbestimes`、`missburrg`、`mydailyhero`、`uncledspizza`、`*.shop`、SEO 模板路径 `/outreach-directory/`、`/link-juice-directory/` 等）——这部分可直接作为我们的负面筛除规则。
+- 真实内容站部分——被一并 disavow 属于过度清洗，对我们反而是**候选目标名单**：
+
+| 类型 | 站点 | 可谈角度 |
+|---|---|---|
+| 竞品计算器 | `peptidescalculator.org`、`truepeptidesource.com/calculators/cost-supply`、`doserly.com`、`peptidecortex.com/dosing` | 工具并列推荐/互链，接受“对比”而非唯一推荐 |
+| 内容站可 pitch | `oneskin.mom`、`biotechresearch.co.uk`、`peptidevox.com`、`thepeptidetoolkit.com`、`maylene.uk`、`peptijournal.com`、`peptifact.com`、`findpeptideclinics.com`、`researchknowledgehub.com`、`onpeps.com`、`peptpath.com` | 科普文里补“计算/换算工具”引用 |
+| 复溶类长尾 | `peptidesvietnam.com`（how much BAC water for 50mg GHK-Cu）、`pepuralabs.ca`（how to reconstitute retatrutide）、`peptidesmadeclear.com` | 与现有复溶页直接对口 |
+| 已有目标 | `telehealthally.com`、`peptideatlas.health`、`peptidelit.com` | 见第 4 节 P0/P2 |
+
+**待筛除**：`vialfiles.com`、`peptidecompass.net`、`pepsavvy.com`、`pepteca.com`、`pepnex.cc`、`peply.cc`、`peplux.cc`、`pepiteverte.com`、`pepecatcher.com` 这类内容极薄或路径为随机字符串的站，疑似同一批程序化建站，不作为外联目标。
+
+## 16. 其他上传文件
+
+- `342e2c4cd7fc435da2e1681771645397.xlsx`：评论/个人资料页外链机会表，目标站为 `sprunki-game.io`、`basketballrandom.com`、`leveldevilgame.com` 等游戏站，与肽站无关。可借鉴的只有字段模板（Type / URL / Discovered From / Has Captcha / Link Strategy / Link Format / Has URL Field）。
+- `StyleMirror_AI_HK300_Pitch_final.pptx`：服装 AI 试穿产品路演（stylemirrorai.com，HK$100k 预算），与本站无关。
